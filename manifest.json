@@ -4,9 +4,6 @@
   "omnibox": {
     "keyword": "mdn"
           },
-  "icons": {
-    "16": "icon.png"
-  },
   "background": {
     "scripts": ["background.js"]
   },
